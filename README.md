@@ -1,2 +1,2 @@
 # Front-Panel-Design-
-how to create a front panel
+how to design a front panel
