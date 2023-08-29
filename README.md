@@ -1,4 +1,4 @@
-# Front-Panel-Design
+# Front_Panel_Design
 how to design a front panel using Inkscape
 
 Vous trouverez ici :
