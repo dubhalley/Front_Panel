@@ -2,13 +2,13 @@
 
 ## DESIGN
 
-*FREECAD
+###FREECAD
 Freecad is a free software package for 3D drawing.
 https://www.freecad.org/
 It allowed me to draw a model that you can modify the inner diameter, the shape and the outer diameter.
 You will find it in the 3D files folder.
 
-*INKSCAPE
+###INKSCAPE
 Inkscape is a free 3D drawing program.
 https://inkscape.org/
 It allowed me to draw a model that you'll find in the 2D files folder.
