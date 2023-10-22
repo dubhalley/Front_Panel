@@ -58,10 +58,11 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 **Lasergraving Aluminium**
 Most easy-to-find machines cannot engrave in aluminum.
 But aluminum can be painted, so engraving works in place of cutting.
+But, you do need to protect the paint, however, as it will peel off. One solution is to apply a layer of transparent plastic adhesive.
+
 However, you'll need to drill the holes with a drill press and cut the edge precisely.
 
 ![20231022_031901](https://github.com/dubhalley/Front_Panel/assets/5200123/5fef2b30-f85d-48d1-b69e-24e8ee9fab3c)
-
 
 
 **PCB**
