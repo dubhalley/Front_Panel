@@ -35,10 +35,34 @@ My method
 
 ## FABRICATION
 
-**Lasercut**
+**Lasercut PMMA**
 Une image du résultat après découpe laser de pmma 3mm.
 281 Vectorised.svg
 ![Version Yo](https://github.com/dubhalley/Front-Panel-Design/assets/5200123/9afeab42-3bba-4435-a73a-69320368a6ac)
+
+**Lasercut WOOD**
+poplar plywood 3mm
+![20231022_031818](https://github.com/dubhalley/Front_Panel/assets/5200123/42a2a4c8-7f73-41eb-99fb-0a15c315d91e)
+
+**Lasergraving Dibond**
+3mm dibond = Dibond® is an aluminum composite material (ACM). It is comprised of two pre-painted sheets of . 012″ (. 30mm) aluminum with a solid polyethylene core.
+Most easy-to-find machines cannot engrave in aluminum.
+But aluminum is painted, so engraving works in place of cutting.
+However, you'll need to drill the holes with a drill press and cut the edge precisely.
+But it's functional, and inexpensive, as sports clubs use this material for their advertising.
+As their sponsors change, they no longer use the old panels...
+On one side there's the advertising, on the other it's blank, ready to engrave, sometimes even with the protective layer still on :)
+
+![20231022_031751](https://github.com/dubhalley/Front_Panel/assets/5200123/f7e0ac26-f45a-4690-843e-fabc765c8d43)
+
+**Lasergraving Aluminium**
+Most easy-to-find machines cannot engrave in aluminum.
+But aluminum can be painted, so engraving works in place of cutting.
+However, you'll need to drill the holes with a drill press and cut the edge precisely.
+
+![20231022_031901](https://github.com/dubhalley/Front_Panel/assets/5200123/5fef2b30-f85d-48d1-b69e-24e8ee9fab3c)
+
+
 
 **PCB**
 ![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
