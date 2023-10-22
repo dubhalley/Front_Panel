@@ -41,3 +41,4 @@ Une image du résultat après découpe laser de pmma 3mm.
 ![Version Yo](https://github.com/dubhalley/Front-Panel-Design/assets/5200123/9afeab42-3bba-4435-a73a-69320368a6ac)
 
 **PCB**
+![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
