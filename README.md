@@ -22,7 +22,7 @@ Inkscape lets me align holes of defined diameters, play with fonts and much more
 You'll find in the 2D files folder.
 You can modify anything :)
 
-**Kicad**
+**KICAD**
 Kicad is a free software for creating pcb.
 https://www.kicad.org/
 It is now very easy to obtain front panels using this software.
