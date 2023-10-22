@@ -67,3 +67,6 @@ However, you'll need to drill the holes with a drill press and cut the edge prec
 
 **PCB**
 ![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
+
+**3d print**
+It's also possible to 3d print the front panel. 
