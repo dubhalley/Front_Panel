@@ -3,16 +3,15 @@
 ## DESIGN
 
 **FREECAD**
-Freecad is a free software package for 3D drawing.
-https://www.freecad.org/
-It lets you draw with precision.
-It also lets you define distance constraints (such as fixing holes).
+
+Freecad is a free software package for 3D drawing. https://www.freecad.org/
+It lets you draw with precision, it also lets you define distance constraints (such as fixing holes).
 But so much more :)
 
 Personally, I use it to draw the module's outer contour and fixing holes.
 Then I insert it into Inkscape to create a 2D vector design with easy image and font insertion.
 
-You will find it in the 3D files folder.
+You will find it in the 2D files folder.
 
 **INKSCAPE**
 Inkscape is a free 2D vectoriel drawing software.
