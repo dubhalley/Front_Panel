@@ -14,25 +14,30 @@ Then I insert it into Inkscape to create a 2D vector design with easy image and 
 You will find it in the 2D files folder.
 
 **INKSCAPE**
-Inkscape is a free 2D vectoriel drawing software.
-https://inkscape.org/
-Inkscape lets me align holes of defined diameters, play with fonts and much more... :)
+
+Inkscape is a free 2D vectoriel drawing software. https://inkscape.org/
+Inkscape lets me align holes of defined diameters for knob, switch, jacks, leds ... And, we also can play with fonts, pictures and much more... :)
 
 You'll find in the 2D files folder.
-You can modify anything :)
 
 **KICAD**
-Kicad is a free software for creating pcb.
-https://www.kicad.org/
-It is now very easy to obtain front panels using this software.
 
-My method
+Kicad is a free software for creating pcb. https://www.kicad.org/
+It is common to obtain front panels using this software.
+
+My method :
+
 1 - I use Freecad to create the exact eurorack exterior dimensions.
 4, 6, 8 HP etc... With the mounting holes in the right place!
+
 2 - I insert the file into inkscape to put the writing, images, markers etc..
+
 3 - I insert the file in Kicad, and define each drawing or writing on a layer of the PCB.
 
 ## FABRICATION
+
+To obtain the next front panels you'll need a lasercutter. Like 3d printer you can find it in a fablab.
+
 
 **Lasercut PMMA**
 Une image du résultat après découpe laser de pmma 3mm.
@@ -45,6 +50,7 @@ poplar plywood 3mm
 
 **Lasergraving Dibond**
 3mm dibond = Dibond® is an aluminum composite material (ACM). It is comprised of two pre-painted sheets of . 012″ (. 30mm) aluminum with a solid polyethylene core.
+
 Most easy-to-find machines cannot engrave in aluminum.
 But aluminum is painted, so engraving works in place of cutting.
 However, you'll need to drill the holes with a drill press and cut the edge precisely.
@@ -64,8 +70,14 @@ However, you'll need to drill the holes with a drill press and cut the edge prec
 ![20231022_031901](https://github.com/dubhalley/Front_Panel/assets/5200123/5fef2b30-f85d-48d1-b69e-24e8ee9fab3c)
 
 
-**PCB**
+**Etch PCB**
+
+To obtain this quality of panel you'll need to send GERBER files to a PCB supplyer. 
+
 ![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
 
 **3d print**
 It's also possible to 3d print the front panel. 
+For me, I use 3d panel only for blank panel
+
+This website allows you to download  generic panel. 
