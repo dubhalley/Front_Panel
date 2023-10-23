@@ -81,3 +81,5 @@ It's also possible to 3d print the front panel.
 For me, I use 3d panel only for blank panel
 
 This website allows you to download eurorack parts. 
+
+https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
