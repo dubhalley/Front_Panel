@@ -40,15 +40,18 @@ To obtain the next front panels you'll need a lasercutter. Like 3d printer you c
 
 
 **Lasercut PMMA**
+
 Une image du résultat après découpe laser de pmma 3mm.
 281 Vectorised.svg
 ![Version Yo](https://github.com/dubhalley/Front-Panel-Design/assets/5200123/9afeab42-3bba-4435-a73a-69320368a6ac)
 
 **Lasercut WOOD**
+
 poplar plywood 3mm
 ![20231022_031818](https://github.com/dubhalley/Front_Panel/assets/5200123/42a2a4c8-7f73-41eb-99fb-0a15c315d91e)
 
 **Lasergraving Dibond**
+
 3mm dibond = Dibond® is an aluminum composite material (ACM). It is comprised of two pre-painted sheets of . 012″ (. 30mm) aluminum with a solid polyethylene core.
 
 Most easy-to-find machines cannot engrave in aluminum.
@@ -61,6 +64,7 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 ![20231022_031751](https://github.com/dubhalley/Front_Panel/assets/5200123/f7e0ac26-f45a-4690-843e-fabc765c8d43)
 
 **Lasergraving Aluminium**
+
 Most easy-to-find machines cannot engrave in aluminum.
 But aluminum can be painted, so engraving works in place of cutting.
 But, you do need to protect the paint, however, as it will peel off. One solution is to apply a layer of transparent plastic adhesive.
@@ -77,9 +81,10 @@ To obtain this quality of panel you'll need to send GERBER files to a PCB supply
 ![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
 
 **3d print**
+
 It's also possible to 3d print the front panel. 
 For me, I use 3d panel only for blank panel
 
-This website allows you to download eurorack parts. 
+This website allows you to download and print eurorack parts. 
 
 https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
