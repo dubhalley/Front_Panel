@@ -80,4 +80,4 @@ To obtain this quality of panel you'll need to send GERBER files to a PCB supply
 It's also possible to 3d print the front panel. 
 For me, I use 3d panel only for blank panel
 
-This website allows you to download  generic panel. 
+This website allows you to download eurorack parts. 
