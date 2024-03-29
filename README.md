@@ -1,38 +1,47 @@
 # Front_Panel
 
-## DESIGN
+**Here an example of a design on Inkscape**
+
+**Here the result after laserCutting and coloring fonts with white paint**
+
+## Design
+
 
 **FREECAD**
 
-Freecad is a free software package for 3D drawing. https://www.freecad.org/
-It lets you draw with precision, it also lets you define distance constraints (such as fixing holes).
-But so much more :)
+Freecad is a free 2D and 3D drawing software. : https://www.freecad.org/
+It allowed me to draw the module's outer contour and fixing holes.
 
-Personally, I use it to draw the module's outer contour and fixing holes.
-Then I insert it into Inkscape to create a 2D vector design with easy image and font insertion.
+Then I insert it into Inkscape to add images and texts.
+But, why don't I use Inkscape at the beginning for the module's outer contour and fixing holes ?
 
-You will find it in the 2D files folder.
+Quite simply because Freecad lets me set dimensional constraints.
+The outside size can be defined very precisely, and the fixing holes can be placed at an exact distance from the edge.
+And, even if I change the outside dimension, the position and size of the fixing holes will remain the same.
+
+You will find them in the 2D files folder.
+
 
 **INKSCAPE**
 
 Inkscape is a free 2D vectoriel drawing software. https://inkscape.org/
-Inkscape lets me align holes of defined diameters for knob, switch, jacks, leds ... And, we also can play with fonts, pictures and much more... :)
+In Inkscape you can create a 2D vector design with easy and pretty image and text insertion with also some tool to align holes of defined diameters for knob, switch, jacks, leds ... 
+You can play with fonts, pictures and much more... :)
 
-You'll find in the 2D files folder.
+Here is a screenshot of one of my front panel design.
+
+There is also my generic page with all the necessary components (Jacks, Pots, switchs...)
+
+You'll find them in the 2D files folder.
+
+
 
 **KICAD**
 
-Kicad is a free software for creating pcb. https://www.kicad.org/
+Kicad is a free creating pcb software. https://www.kicad.org/
 It is common to obtain front panels using this software.
 
-My method :
-
-1 - I use Freecad to create the exact eurorack exterior dimensions.
-4, 6, 8 HP etc... With the mounting holes in the right place!
-
-2 - I insert the file into inkscape to put the writing, images, markers etc..
-
-3 - I insert the file in Kicad, and define each drawing or writing on a layer of the PCB.
+I insert the file in Kicad, and define each drawing or writing on a layer of the PCB.
 
 ## FABRICATION
 
@@ -41,14 +50,16 @@ To obtain the next front panels you'll need a lasercutter. Like 3d printer you c
 
 **Lasercut PMMA**
 
-Une image du résultat après découpe laser de pmma 3mm.
-281 Vectorised.svg
+Pmma or plexiglas
+
 ![Version Yo](https://github.com/dubhalley/Front-Panel-Design/assets/5200123/9afeab42-3bba-4435-a73a-69320368a6ac)
+
 
 **Lasercut WOOD**
 
 poplar plywood 3mm
 ![20231022_031818](https://github.com/dubhalley/Front_Panel/assets/5200123/42a2a4c8-7f73-41eb-99fb-0a15c315d91e)
+
 
 **Lasergraving Dibond**
 
@@ -62,6 +73,7 @@ As their sponsors change, they no longer use the old panels...
 On one side there's the advertising, on the other it's blank, ready to engrave, sometimes even with the protective layer still on :)
 
 ![20231022_031751](https://github.com/dubhalley/Front_Panel/assets/5200123/f7e0ac26-f45a-4690-843e-fabc765c8d43)
+
 
 **Lasergraving Aluminium**
 
@@ -80,6 +92,7 @@ To obtain this quality of fabrication - Not the design :) - you'll need to send 
 
 ![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
 
+
 **3d print**
 
 It's also possible to 3d print the front panel. 
@@ -92,4 +105,6 @@ https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
 https://www.thingiverse.com/thing:1850240
 
 https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/renders/f8/6b/c8/af/30/ea0b798dd1fd3b85183d70121756dcbc_display_large.jpg
+
+## More resources on creating PCB front panel
 
