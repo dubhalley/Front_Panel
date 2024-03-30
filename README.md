@@ -2,7 +2,12 @@
 
 **Here an example of a design on Inkscape**
 
+<img src='Pictures/281 Vectorised.png' width='200px'/>
+
 **Here the result after laserCutting and coloring fonts with white paint**
+
+<img src='Pictures/Version Yo.jpg' width='200px'/>
+
 
 ## Design
 
@@ -19,6 +24,8 @@ Quite simply because Freecad lets me set dimensional constraints.
 The outside size can be defined very precisely, and the fixing holes can be placed at an exact distance from the edge.
 And, even if I change the outside dimension, the position and size of the fixing holes will remain the same.
 
+I made files with the current front panel sizes
+
 You will find them in the 2D files folder.
 
 
@@ -28,11 +35,13 @@ Inkscape is a free 2D vectoriel drawing software. https://inkscape.org/
 In Inkscape you can create a 2D vector design with easy and pretty image and text insertion with also some tool to align holes of defined diameters for knob, switch, jacks, leds ... 
 You can play with fonts, pictures and much more... :)
 
-Here is a screenshot of one of my front panel design.
+Here one of my design, you'll find the .svg on 2D files folder
+
+<img src='Pictures/4 VCA V5.png' width='200px'/>
 
 There is also my generic page with all the necessary components (Jacks, Pots, switchs...)
 
-You'll find them in the 2D files folder.
+You'll find them in .svg format the 2D files folder.
 
 
 
@@ -52,13 +61,13 @@ To obtain the next front panels you'll need a lasercutter. Like 3d printer you c
 
 Pmma or plexiglas
 
-![Version Yo](https://github.com/dubhalley/Front-Panel-Design/assets/5200123/9afeab42-3bba-4435-a73a-69320368a6ac)
-
+<img src='Pictures/281 Vectorised.png' width='200px'/>
 
 **Lasercut WOOD**
 
 poplar plywood 3mm
-![20231022_031818](https://github.com/dubhalley/Front_Panel/assets/5200123/42a2a4c8-7f73-41eb-99fb-0a15c315d91e)
+
+<img src='Pictures/CP 3mm.jpg' width='200px'/>
 
 
 **Lasergraving Dibond**
@@ -72,7 +81,7 @@ But it's functional, and inexpensive, as sports clubs use this material for thei
 As their sponsors change, they no longer use the old panels...
 On one side there's the advertising, on the other it's blank, ready to engrave, sometimes even with the protective layer still on :)
 
-![20231022_031751](https://github.com/dubhalley/Front_Panel/assets/5200123/f7e0ac26-f45a-4690-843e-fabc765c8d43)
+<img src='Pictures/Dibond.jpg' width='200px'/>
 
 
 **Lasergraving Aluminium**
@@ -83,20 +92,23 @@ But, you do need to protect the paint, however, as it will peel off. One solutio
 
 However, you'll need to drill the holes with a drill press and cut the edge precisely.
 
-![20231022_031901](https://github.com/dubhalley/Front_Panel/assets/5200123/5fef2b30-f85d-48d1-b69e-24e8ee9fab3c)
+<img src='Pictures/Aluminium.jpg' width='200px'/>
 
 
 **Etch PCB**
 
 To obtain this quality of fabrication - Not the design :) - you'll need to send GERBER files to a PCB supplyer. 
 
-![20230815_224720](https://github.com/dubhalley/Front_Panel/assets/5200123/90b811dc-ec50-4405-8388-7b0f4d013861)
+<img src='Pictures/Pcb.jpg' width='200px'/>
+
 
 
 **3d print**
 
 It's also possible to 3d print the front panel. 
 I use 3d panel only for blank panel
+
+<img src='Pictures/3D Print.png' width='200px'/>
 
 This website allows you to download and print eurorack parts. 
 
@@ -107,4 +119,12 @@ https://www.thingiverse.com/thing:1850240
 https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/renders/f8/6b/c8/af/30/ea0b798dd1fd3b85183d70121756dcbc_display_large.jpg
 
 ## More resources on creating PCB front panel
+
+ModWiggler forum :
+
+* https://modwiggler.com/forum/viewtopic.php?t=282087&sid=c586f268479aaaf0befdb3511445877c#top
+
+* https://modwiggler.com/forum/viewtopic.php?t=235049
+
+* https://modwiggler.com/forum/viewtopic.php?t=180347&start=400
 
