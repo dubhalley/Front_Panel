@@ -154,7 +154,7 @@ To cut the edges, I use a wooden wedge to guide the hacksaw blade.
 
 <img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 8.jpg' width='200px'/>
 
-edges need to be deburred to remove sharp edges
+Edges need to be deburred to remove sharp edges
 
 <img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 9.jpg' width='200px'/>
 
@@ -216,7 +216,7 @@ https://www.thingiverse.com/thing:1850240
 
 https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
 
-## More resources on creating PCB front panel
+## More resources on creating front panel
 
 SDIY.info wiki 
 
