@@ -128,13 +128,25 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 
 1 - Open your design in lightburn or other software to control the laser cutter, and choose what will be filled in (as if coloring the inside of a drawing) and what will be marked (as if drawing just the outline of the drawing).
 
-<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 1.jpg' width='200px'/>
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 2.jpg' width='200px'/>
 
 2 - Engraving
 
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 1.jpg' width='200px'/>
+
 3 - Cleaning the engraving
 
-4 - Cut the edges
+To clean, I use toothpaste and a toothbrush, because it sands nicely without scratching too much.
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 3.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 4.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 5.jpg' width='200px'/>
+
+4 - Cut and file the edges
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 7.jpg' width='200px'/>
 
 5 - Make a mark with a punch, and drill the holes, start with a 3mm drill bit, then drill to 6mm for the jack and potentiometer etc.
 
@@ -189,4 +201,9 @@ ModWiggler forum :
 * https://modwiggler.com/forum/viewtopic.php?t=235049
 
 * https://modwiggler.com/forum/viewtopic.php?t=180347&start=400
+
+A small table saw build in PVC, to cut the edges
+
+* https://www.youtube.com/watch?v=B5hse3_FMNY
+
 
