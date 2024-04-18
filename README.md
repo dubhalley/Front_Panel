@@ -4,6 +4,8 @@
 
 <img src='Pictures/281 Vectorised.png' width='200px'/>
 
+
+
 **Here the result after laserCutting and coloring fonts with white paint**
 
 <img src='Pictures/Version Yo.jpg' width='200px'/>
@@ -28,6 +30,8 @@ I made files with the current front panel sizes
 
 You will find them in the 2D files folder.
 
+<img src='2d Files/8hp40.3mm.png' width='200px'/>
+
 
 **INKSCAPE**
 
@@ -51,6 +55,8 @@ Kicad is a free creating pcb software. https://www.kicad.org/
 It is common to obtain front panels using this software.
 
 I insert the file in Kicad, and define each drawing or writing on a layer of the PCB.
+
+"How to" is coming soon...
 
 ## FABRICATION
 
@@ -120,6 +126,10 @@ https://www.thingiverse.com/thing:1850240
 https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/renders/f8/6b/c8/af/30/ea0b798dd1fd3b85183d70121756dcbc_display_large.jpg
 
 ## More resources on creating PCB front panel
+
+SDIY.info wiki 
+
+* https://sdiy.info/wiki/Eurorack_panel_components
 
 ModWiggler forum :
 
