@@ -58,7 +58,7 @@ I insert the file in Kicad, and define each drawing or writing on a layer of the
 
 "How to" is coming soon...
 
-## FABRICATION
+## Fabrication
 
 To obtain the next front panels you'll need a lasercutter. Like 3d printer you can find it in a fablab.
 
