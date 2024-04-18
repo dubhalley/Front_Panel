@@ -11,7 +11,7 @@
 <img src='Pictures/Version Yo.jpg' width='200px'/>
 
 
-## Design
+## Design software
 
 
 **FREECAD**
@@ -105,7 +105,9 @@ An example of lasercutted Pmma or plexiglas
 
 **Lasercut WOOD**
 
-poplar plywood 3mm
+Poplar plywood 3mm
+
+There's less work after cutting for poplar plywood, as the engraving provides enough contrast to distinguish the writing and images.
 
 <img src='Pictures/CP 3mm.jpg' width='200px'/>
 
@@ -117,7 +119,7 @@ poplar plywood 3mm
 Most easy-to-find machines cannot engrave in aluminum.
 But aluminum is painted, so engraving works in place of cutting.
 However, you'll need to drill the holes with a drill press and cut the edge precisely.
-But it's functional, and inexpensive, as sports clubs use this material for their advertising.
+But it's functional, quite pretty, and inexpensive, as sports clubs use this material for their advertising.
 As their sponsors change, they no longer use the old panels...
 On one side there's the advertising, on the other it's blank, ready to engrave, sometimes even with the protective layer still on :)
 
@@ -126,7 +128,7 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 
 **Lasergraving Aluminium**
 
-Most easy-to-find machines cannot engrave in aluminum.
+Most easy-to-find machines cannot engrave in aluminum. You need a fiber laser Cutter, and it's quite expensive ...
 But aluminum can be painted, so engraving works in place of cutting.
 But, you do need to protect the paint, however, as it will peel off. One solution is to apply a layer of transparent plastic adhesive.
 
