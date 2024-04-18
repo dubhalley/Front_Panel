@@ -126,6 +126,22 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 <img src='Pictures/Dibond.jpg' width='200px'/>
 
 
+1 - Open your design in lightburn or other software to control the laser cutter, and choose what will be filled in (as if coloring the inside of a drawing) and what will be marked (as if drawing just the outline of the drawing).
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 1.jpg' width='200px'/>
+
+2 - Engraving
+
+3 - Cleaning the engraving
+
+4 - Cut the edges
+
+5 - Make a mark with a punch, and drill the holes, start with a 3mm drill bit, then drill to 6mm for the jack and potentiometer etc.
+
+
+
+
+
 **Lasergraving Aluminium**
 
 Most easy-to-find machines cannot engrave in aluminum. You need a fiber laser Cutter, and it's quite expensive ...
