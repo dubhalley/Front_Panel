@@ -212,11 +212,9 @@ I use 3d panel only for blank panel
 
 This website allows you to download and print eurorack parts. 
 
-https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
-
 https://www.thingiverse.com/thing:1850240
 
-https://img.thingiverse.com/cdn-cgi/image/fit=contain,quality=95/https://cdn.thingiverse.com/renders/f8/6b/c8/af/30/ea0b798dd1fd3b85183d70121756dcbc_display_large.jpg
+https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
 
 ## More resources on creating PCB front panel
 
