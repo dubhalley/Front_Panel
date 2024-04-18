@@ -132,6 +132,8 @@ On one side there's the advertising, on the other it's blank, ready to engrave, 
 
 2 - Engraving
 
+I'm using an Atomstack X20 Pro
+
 <img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 1.jpg' width='200px'/>
 
 3 - Cleaning the engraving
@@ -146,11 +148,39 @@ To clean, I use toothpaste and a toothbrush, because it sands nicely without scr
 
 4 - Cut and file the edges
 
+To cut the edges, I use a wooden wedge to guide the hacksaw blade.
+
 <img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 7.jpg' width='200px'/>
 
-5 - Make a mark with a punch, and drill the holes, start with a 3mm drill bit, then drill to 6mm for the jack and potentiometer etc.
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 8.jpg' width='200px'/>
 
+edges need to be deburred to remove sharp edges
 
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 9.jpg' width='200px'/>
+
+5 - Drill the holes
+
+Make a mark with a punch, and drill the holes, start with a 3mm drill bit, then drill to 6mm for the jack and potentiometer etc.
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 10.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 11.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 12.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 13.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 14.jpg' width='200px'/>
+
+Deburr the edges of the hole to remove the cutting edge
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 15.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 16.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 17.jpg' width='200px'/>
+
+<img src='How To/Dibond/Dibond Pictures/Dibond Front Panel 18.jpg' width='200px'/>
 
 
 
