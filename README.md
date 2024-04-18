@@ -65,9 +65,14 @@ To obtain the next front panels you'll need a lasercutter. Like 3d printer you c
 
 **Lasercut PMMA**
 
-Pmma or plexiglas
+An example of lasercutted Pmma or plexiglas
 
 <img src='Pictures/Version Yo.jpg' width='200px'/>
+
+***How To***
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 1.jpg' width='200px'/>
+
 
 
 **Lasercut WOOD**
