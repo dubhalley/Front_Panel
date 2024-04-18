@@ -69,10 +69,38 @@ An example of lasercutted Pmma or plexiglas
 
 <img src='Pictures/Version Yo.jpg' width='200px'/>
 
-***How To***
+
+1 - Rendering after laser cutting
 
 <img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 1.jpg' width='200px'/>
 
+2 - Paint for inking writings and drawings
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 2.jpg' width='200px'/>
+
+3 - A tiling scraper to spread it all out so that it fits into the grooves.
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 3.jpg' width='200px'/>
+
+4 - Leave to dry
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 4.jpg' width='200px'/>
+
+5 - Take a wet cloth and rub to remove any paint that's not in the right place.
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 5.jpg' width='200px'/>
+
+6 - Here's how it looks, when it's all finished (I'm not very fussy) we can do better ...
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 6.jpg' width='200px'/>
+
+7 - the front panel with parts
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 7.jpg' width='200px'/>
+
+8 - It's all over
+
+<img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 8.jpg' width='200px'/>
 
 
 **Lasercut WOOD**
