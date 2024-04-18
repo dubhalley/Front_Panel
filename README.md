@@ -94,7 +94,7 @@ An example of lasercutted Pmma or plexiglas
 
 <img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 6.jpg' width='200px'/>
 
-7 - the front panel with parts
+7 - The front panel with parts
 
 <img src='How To/Pmma/Pmma Pictures/Pmma Front Panel 7.jpg' width='200px'/>
 
