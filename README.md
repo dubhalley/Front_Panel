@@ -205,7 +205,7 @@ However, you'll need to drill the holes with a drill press and cut the edge prec
 
 To obtain this quality of fabrication - Not the design :) - you'll need to send GERBER files to a PCB supplyer. 
 
-<img src='Pictures/Pcb.jpg' width='200px'/>
+<img src='Pictures/Pcb.jpg' width='100px'/>
 
 
 
