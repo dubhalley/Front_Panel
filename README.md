@@ -54,9 +54,15 @@ You'll find them in .svg format the 2D files folder.
 Kicad is a free creating pcb software. https://www.kicad.org/
 It is common to obtain front panels using this software.
 
-I insert the file in Kicad, and define each drawing or writing on a layer of the PCB.
+You have to insert the svg file in Kicad, and define each drawing or writing on a layer of the PCB.
 
-"How to" is coming soon...
+I wanted to make a documentation, but during my reading, I found some resources on synth front panel manufacturing that make me think I probably couldn't do better... :)
+
+https://arx.wtf/blog/1-front-panels-tips
+
+https://www.youtube.com/watch?v=m__D1doHVVk
+
+
 
 ## Fabrication
 
