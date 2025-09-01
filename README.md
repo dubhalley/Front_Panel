@@ -228,7 +228,7 @@ SDIY.info wiki
 
 * https://sdiy.info/wiki/Eurorack_panel_components
 
-Synth Panel Designer : An app to do your own front panel
+Synth Panel Designer : An Inkscape add ons to do your own front panel
 
 * https://synthpanels.design/
 
