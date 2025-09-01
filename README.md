@@ -11,7 +11,7 @@
 <img src='Pictures/Version Yo.jpg' width='200px'/>
 
 
-## Design software
+## 1 - Design software
 
 
 **FREECAD**
@@ -64,7 +64,7 @@ https://www.youtube.com/watch?v=m__D1doHVVk
 
 
 
-## Fabrication
+## 2 - Fabrication
 
 To obtain the next front panels you'll need a lasercutter. Like 3d printer you can find it in a fablab.
 
@@ -222,7 +222,7 @@ https://www.thingiverse.com/thing:1850240
 
 https://www.thingiverse.com/search?q=eurorack&page=1&type=things&sort=relevant
 
-## More resources on creating front panel
+## 3 - More resources on creating front panel
 
 SDIY.info wiki 
 
