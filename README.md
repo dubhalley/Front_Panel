@@ -228,6 +228,10 @@ SDIY.info wiki
 
 * https://sdiy.info/wiki/Eurorack_panel_components
 
+Synth Panel Designer : An app to do your own front panel
+
+* https://synthpanels.design/
+
 ModWiggler forum :
 
 * https://modwiggler.com/forum/viewtopic.php?t=282087&sid=c586f268479aaaf0befdb3511445877c#top
@@ -235,6 +239,10 @@ ModWiggler forum :
 * https://modwiggler.com/forum/viewtopic.php?t=235049
 
 * https://modwiggler.com/forum/viewtopic.php?t=180347&start=400
+
+Horizontal Pitch : knob scales
+
+* https://www.horizontalpitch.com/2023/11/design-clipboard-knob-scales/
 
 A small table saw build in PVC, to cut the edges
 
